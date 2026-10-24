@@ -1,0 +1,73 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Title (Invoice INV-000063) /Producer (Inventory Management API) /CreationDate (D:20261022123953Z) >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2302 >>
+stream
+BT /F2 17.00 Tf 0.000 0.000 0.000 rg 48.00 779.89 Td (Storefront Architects) Tj ET
+BT /F1 9.00 Tf 0.400 0.400 0.400 rg 48.00 763.89 Td (Pasroor Road) Tj ET
+BT /F1 9.00 Tf 0.400 0.400 0.400 rg 48.00 751.89 Td (Gujranwala, Pakistan) Tj ET
+BT /F1 9.00 Tf 0.400 0.400 0.400 rg 48.00 739.89 Td (+92 3044142704) Tj ET
+BT /F2 24.00 Tf 0.000 0.000 0.000 rg 448.59 775.89 Td (INVOICE) Tj ET
+BT /F2 11.00 Tf 0.000 0.000 0.000 rg 488.58 757.89 Td (INV-000063) Tj ET
+BT /F1 10.00 Tf 0.400 0.400 0.400 rg 466.12 743.89 Td (Date: 22 Oct 2026) Tj ET
+BT /F1 10.00 Tf 0.400 0.400 0.400 rg 406.28 730.89 Td (Order #63  |  Status: Completed) Tj ET
+0.600 G 0.60 w 48.00 693.89 m 547.28 693.89 l S
+BT /F2 8.00 Tf 0.400 0.400 0.400 rg 48.00 673.89 Td (BILL TO) Tj ET
+BT /F2 11.00 Tf 0.000 0.000 0.000 rg 48.00 658.89 Td (Demo Customer) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 48.00 645.89 Td (customer-2f38be@example.com) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 48.00 632.89 Td (12 Mall Road, Lahore) Tj ET
+0.930 g 48.00 588.89 499.28 20.00 re f
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 52.00 594.89 Td (#) Tj ET
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 72.00 594.89 Td (SKU) Tj ET
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 162.00 594.89 Td (Description) Tj ET
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 377.00 594.89 Td (Qty) Tj ET
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 428.49 594.89 Td (Unit price) Tj ET
+BT /F2 9.00 Tf 0.000 0.000 0.000 rg 509.29 594.89 Td (Amount) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 52.00 574.89 Td (1) Tj ET
+BT /F1 9.00 Tf 0.000 0.000 0.000 rg 72.00 574.89 Td (DEMO-2f38be) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 162.00 574.89 Td (Demo widget) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 386.44 574.89 Td (2) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 439.42 574.89 Td (250.00) Tj ET
+BT /F1 10.00 Tf 0.000 0.000 0.000 rg 512.70 574.89 Td (500.00) Tj ET
+0.850 G 0.40 w 48.00 567.89 m 547.28 567.89 l S
+0.300 G 0.80 w 380.00 555.89 m 547.28 555.89 l S
+BT /F2 12.00 Tf 0.000 0.000 0.000 rg 423.92 539.89 Td (TOTAL) Tj ET
+BT /F2 12.00 Tf 0.000 0.000 0.000 rg 477.92 539.89 Td (PKR 500.00) Tj ET
+BT /F1 10.00 Tf 0.400 0.400 0.400 rg 48.00 501.89 Td (Thank you for your order.) Tj ET
+0.800 G 0.40 w 48.00 66.00 m 547.28 66.00 l S
+BT /F1 8.00 Tf 0.400 0.400 0.400 rg 250.35 52.00 Td (INV-000063  |  Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000440 00000 n 
+0000000582 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info 5 0 R >>
+startxref
+2936
+%%EOF
