@@ -1,0 +1,26 @@
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+.pytest_cache/
+outbox/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# IDE settings
+.idea/
+
+# Build artifacts
+build/
+dist/
